@@ -1,5 +1,5 @@
 <!-- 헤더 장식 -->
-<div align = "center">![header](https://capsule-render.vercel.app/api?type=Venom&text=Portfolio)</div>
+![header](https://capsule-render.vercel.app/api?type=Venom&text=Portfolio)
 
 
 <h4 align="center"> 📊Git Statats📊 </h4>
